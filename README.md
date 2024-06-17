@@ -1,6 +1,6 @@
-# simple-birthday-webapp
-Simple webapp to track birthdays
+# simple-birthday-webap
 ---
+CRUD web app. I made it to learn how to use Flask + sqlite3. 
 
 ## DOCKER IMAGE
 Pull & Run commands:<br>
